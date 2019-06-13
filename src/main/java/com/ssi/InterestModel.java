@@ -23,6 +23,11 @@ public class InterestModel {
 	public void setInterest(int interest) {
 		this.interest = interest;
 	}
+	@Override
+	public String toString() {
+		return "InterestModel [amount=" + amount + ", time=" + time
+				+ ", interest=" + interest + "]";
+	}
 	
 	
 	

@@ -12,6 +12,5 @@ http://www.springframework.org/schema/mvc/spring-mvc.xsd">
 	
 	<contex:annotation-config/>
 	<contex:component-scan base-package="com.ssi"/>
-	
 		
 </beans>
